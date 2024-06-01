@@ -1,0 +1,2 @@
+# miyagi
+telefonaya versiya hajime
